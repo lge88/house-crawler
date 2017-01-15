@@ -15,6 +15,9 @@ var CONFIGS = {
   }
 };
 
+// var linksFile = __dirname + '/data/tx-958.txt';
+// var linksFile = __dirname + '/data/richardson-117.txt';
+
 function map(elems, fn) {
   return Array.prototype.map.call(elems, fn);
 }
@@ -103,7 +106,7 @@ function scrapeHouseInfo(link, cb) {
 
 if (!module.parent) {
   var lineReader = rl.createInterface({
-    input: require('fs').createReadStream(__dirname + '/data/san-jose-310.txt')
+    input: process.stdin
   });
 
   lineReader.on('line', function (link) {
