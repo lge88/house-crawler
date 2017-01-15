@@ -1,0 +1,48 @@
+{
+  "facts": {
+    "numBeds": 3,
+    "numBaths": 3,
+    "area": 1705,
+    "buildTime": 1998
+  },
+  "headerFactText": [
+    "3 beds",
+    "3 baths",
+    "1,705 sqft"
+  ],
+  "factText": [
+    "Baths: 2 full, 1 half",
+    "Condo",
+    "Built in 1998",
+    "59 days on Zillow",
+    "Views since listing: 2,296",
+    "All time views: 2,452",
+    "6 shoppers saved this home",
+    "HOA Fee: $280/mo",
+    "Laundry: In Unit",
+    "Parking: Garage - Attached, On street, 429 sqft garage",
+    "Last sold: Dec 2001 for $438,000",
+    "Price/sqft: $440",
+    "Great solar potentialSun Number™: 78",
+    "Cable Ready",
+    "Double Pane/Storm Windows",
+    "Fireplace",
+    "Flooring: Laminate, Tile",
+    "Pool",
+    "View: Mountain, Park"
+  ],
+  "listingPrice": "$749,888",
+  "listingPriceUSD": 749888,
+  "zestimatePrice": "$669,523",
+  "zestimatePriceUSD": 669523,
+  "zestimateRent": "$3,195/mo",
+  "zestimateRentUSD": 3195,
+  "zestimateForecast": "$674,611",
+  "zestimateForecastUSD": 674611,
+  "schoolRatings": [
+    9,
+    9,
+    7
+  ],
+  "link": "http://www.zillow.com/homedetails/880-Del-Avion-Ln-San-Jose-CA-95138/19811563_zpid/"
+}

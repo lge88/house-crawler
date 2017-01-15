@@ -103,7 +103,7 @@ function scrapeHouseInfo(link, cb) {
 
 if (!module.parent) {
   var lineReader = rl.createInterface({
-    input: require('fs').createReadStream(__dirname + '/data/san-jose-10.txt')
+    input: require('fs').createReadStream(__dirname + '/data/san-jose-310.txt')
   });
 
   lineReader.on('line', function (link) {
