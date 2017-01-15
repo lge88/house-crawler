@@ -1,0 +1,16 @@
+{
+  "name": "nba-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "jsdom": "^7.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
