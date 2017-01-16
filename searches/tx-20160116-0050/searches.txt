@@ -1,0 +1,3 @@
+http://www.zillow.com/homes/for_sale/Dallas-TX/house,condo,apartment_duplex,townhouse_type/38128_rid/2-_beds/0-500000_price/0-1894_mp/1950-_built/globalrelevanceex_sort/33.106497,-96.40915,32.52771,-97.14592_rect/10_zm/0_mmm/
+http://www.zillow.com/homes/for_sale/Austin-TX/house,condo,apartment_duplex,townhouse_type/10221_rid/2-_beds/0-500000_price/0-1894_mp/1950-_built/globalrelevanceex_sort/30.589454,-97.417145,29.994786,-98.153916_rect/10_zm/0_mmm/
+http://www.zillow.com/homes/for_sale/Richardson-TX/house,condo,apartment_duplex,townhouse_type/54121_rid/2-_beds/0-500000_price/0-1894_mp/1950-_built/globalrelevanceex_sort/33.036154,-96.599007,32.891696,-96.7832_rect/12_zm/0_mmm/
