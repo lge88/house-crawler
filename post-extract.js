@@ -133,6 +133,7 @@ function computeROI(taxRate, paid, hoa, rent, appreciation) {
 
 if (!module.parent) {
   var lineReader = rl.createInterface({
+		terminal: false,
     input: process.stdin
   });
 

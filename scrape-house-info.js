@@ -104,6 +104,7 @@ function scrapeHouseInfo(link, cb) {
 
 if (!module.parent) {
   var lineReader = rl.createInterface({
+		terminal: false,
     input: process.stdin
   });
 

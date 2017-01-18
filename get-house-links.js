@@ -30,6 +30,7 @@ function getHouseLinksMultiPage(baseUrl, numPages, cbForEachLink) {
 if (!module.parent) {
   var numPages = 20;
   var lineReader = rl.createInterface({
+		terminal: false,
     input: process.stdin
   });
 
